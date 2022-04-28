@@ -474,7 +474,7 @@
   dependencies:
     json-parse-even-better-errors "^2.3.1"
 
-"@remix-run/dev@^1.0.6":
+"@remix-run/dev@^1.4.3":
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/@remix-run/dev/-/dev-1.4.3.tgz#f9379f01bce982a08d12b99206db422db0328125"
   integrity sha512-uvN0UzN97KlGIyotQKB631N92eRAffsMmzC6meoqrejZ9aYQrIM0l/hX3nMjjmbCTKI1Dq29szpMIn6fs5T78g==
@@ -544,7 +544,7 @@
     node-fetch "^2.6.1"
     source-map-support "^0.5.21"
 
-"@remix-run/react@^1.0.6":
+"@remix-run/react@^1.4.3":
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-1.4.3.tgz#2bff68905b084bd58c017bdec9cba4ea7f05dc07"
   integrity sha512-E2lyoPiy2r4Ymuh2Jsf5MuaeZgzYQ/J6sBbGG4Sy23p5B6edvJUNR4wCjVP96cA9Kwon0PjxkGwgY4ye1zwJvQ==
@@ -552,7 +552,7 @@
     history "^5.3.0"
     react-router-dom "^6.2.2"
 
-"@remix-run/serve@^1.0.6":
+"@remix-run/serve@^1.4.3":
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/@remix-run/serve/-/serve-1.4.3.tgz#7b1cba0dadc0263a2134b73c3fc702862f3ed041"
   integrity sha512-/Vtj3+4icXZQFBu/k1ru4xR3PgXPju3V71YAKjUZn5WshH44si4n8rwhFYN7gmmF7Dbx6YNwk1+QIKfpaJUyZw==
@@ -574,7 +574,7 @@
     set-cookie-parser "^2.4.8"
     source-map "^0.7.3"
 
-"@remix-run/vercel@^1.0.6":
+"@remix-run/vercel@^1.4.3":
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/@remix-run/vercel/-/vercel-1.4.3.tgz#3fb4c52b13064bc7eb2d79277d8f50ff14b86357"
   integrity sha512-ZNDmn/j8mU0rK+6VdMqZmWx50thlXtioNLJ0U6qic3hSFFr4vO1weRTUwRIFE3Gm3AxmmvcLxx581W2aTnReVQ==
@@ -4469,7 +4469,7 @@ remark-rehype@^9.0.0:
     mdast-util-to-hast "^11.0.0"
     unified "^10.0.0"
 
-remix@^1.0.6:
+remix@^1.4.3:
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/remix/-/remix-1.4.3.tgz#5c671ce4876989d579ff8738accb0a01ef688407"
   integrity sha512-2MG6y6IrfE9//mm41urKFYZNKfMOnrglSBCmMB1XyvcSQiXrHpOmuMITm7H5LujHwNlqU8REOWpKe/LQABUVHg==
@@ -5185,7 +5185,7 @@ type-is@~1.6.18:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
-typescript@^4.1.2:
+typescript@^4.6.3:
   version "4.6.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.6.3.tgz#eefeafa6afdd31d725584c67a0eaba80f6fc6c6c"
   integrity sha512-yNIatDa5iaofVozS/uQJEl3JRWLKKGJKh6Yaiv0GLGSuhpFJe7P3SbHZ8/yjAHRQwKRoA6YZqlfjXWmVzoVSMw==
